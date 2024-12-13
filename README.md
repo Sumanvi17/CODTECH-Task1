@@ -46,7 +46,7 @@ Features
 - Performs the selected operation and displays the result.
 - Handles invalid input and division by zero errors.
 
-  Key Insights
+ Key Insights
 
 1. Modular design: The program uses a modular design, with separate methods for each arithmetic operation. This makes the code more organized, reusable, and easier to maintain.
 2. Error handling: The program includes basic error handling, such as checking for division by zero and handling invalid user input.
